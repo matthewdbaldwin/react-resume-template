@@ -1,56 +1,31 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "name":"Matthew Baldwin",
+    "description": "I’m Matthew Baldwin, a full-stack web developer. I am passionate about programming and using new development tools and technology. For the past seven years I have worked in a corporate healthcare data industry involved in digital marketing campaigns",
+    "email": "matt.d.baldwin@gmail.com",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Orange County",
+      "city":"City of Orange",
+      "state":"CA"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "image": "profilepic.jpg",
+    "aboutme":{ 
+      "pp1": "My previous experiences included analyzing customer experiences through website landing pages, content creation and email automation tools such as Pardot and Eloqua. I have over a decade of experience with Adobe Suite creating content in Photoshop, Illustrator and InDesign. I have managed websites as part of my marketing duties and developed them using HTML, CSS, PHP, Javascript and managing Content Management Suite (CMS) platforms. This allowed me to create a passion for coding and developing websites and their technologies. I was fortunate to take on more responsibility coding and developing these corporate websites and learned more about JavaScript and project management platforms.", 
+      "pp2": "I needed a way to learn more and enrolled at LearningFuze, and take night classes while still holding my job. While at Learning Fuze I was given challenging programming problems to solve. Engaging me and exposing me to more technologies such as JavaScript, jQuery, React and NodeJs. My knowledge grew as a front end developer as I worked on several React applications. NodeJs and Express exposed me to working as a back-end developer as I edited databases and made even more progress.", 
+      "pp3": "My experience managing campaigns for customer experiences combined with my skills as a Web Developer would make me a fantastic asset to your team. I would love the opportunity to bring my passion and dedication to web development to your company."
+    },
+    "website": "http://www.matthewdbaldwin.com",
+    "resumedownload":"http://www.matthewdbaldwin.com/resume",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/mattdbaldwin/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/matthewdbaldwin",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
@@ -58,106 +33,94 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"California State Polytechnic University Pomona",
+        "degree":"Business Administration",
+        "graduated":"June 2008",
+        "description":"Brand Management and Marketing"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Learning Fuze",
+        "degree":"Full-stack development program",
+        "graduated":"March 2020",
+        "description":"Completed Full-stack development courses, a 12-week intensive that teaches front-end and back-end subjects like JavaScript/jQuery, React, Node.js, PHP, MySQL, HTML, CSS, Amazon Web Services (AWS), Git/GitHub, and others."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"IQVIA",
+        "title":"Marketing Manager",
+        "years":"April 2015 - Present",
+        "description":"Develop OneKeyData.com utilizing ExpressionEngine to publish content and development. Lead site development with Nodejs, and tracked through Beanstalk and GitHub using HTML, CSS, Javascript, JSON, ECMA 5 & 6 and PHP. Collaborate with 3rd party development team Lucid Fusion. Utilize Microsoft Sharepoint CMS and SQL for U.S. marketing on IQVIA.com to create product pages and campaign landing pages. Lead identification of KPI's through Google suite of products."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Cegedim",
+        "title":"Marketing Specialist",
+        "years":"April 2013 - April 2015",
+        "description":"Designed and deployed email campaigns through Marketo. Created product pages and campaign landing pages for US marketing on cegedimrm.com. Updated and maintained websites with Microsoft Sharepoint using Javascript, PHP and HTML.Designed layouts for print and digital media including brochures, fact sheets, count sheets, banners, newsletters, advertiesments, and other sales collateral with Photoshop and Illustrator."
       }
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"HTML5",
+        "level":"90%"
       },
       {
         "name":"CSS",
         "level":"90%"
       },
       {
-        "name":"HTML5",
+        "name":"Photoshop",
         "level":"80%"
       },
       {
-        "name":"VueJs",
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"Wordpress",
+        "level":"70%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"65%"
+      },
+      {
+        "name":"ReactJs",
         "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"OneKeyData.com",
+        "category":"A professional site I currently develop.",
+        "image":"onekeydata.png",
+        "url":"https://onekeydata.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"winwinbrewery.com",
+        "category":"A project in WordPress I started to track my hobby of brewing beer.",
+        "image":"winwin.png",
+        "url":"https://winwinbrewery.com/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Sweet Corner",
+        "category":"A React.js website I built at LearningFuze",
+        "image":"sweet-corner.png",
+        "url":"https://matthewdbaldwin.com/sweet-corner"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Matt has a lot of technical skills",
+        "user":"Mattias Huber"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"Phenomenal to work with.",
+        "user":"Kenneth Hope"
       }
     ]
   }
