@@ -3,12 +3,6 @@ import React, { Component } from 'react';
 class Contact extends Component {
   render() {
 
-    if(this.props.data){
-      var name = this.props.data.name;
-      var email = this.props.data.email;
-      var message = this.props.data.contactmessage;
-    }
-
     return (
       <section id="contact">
 
@@ -16,7 +10,7 @@ class Contact extends Component {
 
             <div className="two columns header-col">
 
-               <h1><span>Get In Touch.</span></h1>
+            <a href="matt.d.baldwin@gmail.com?subject=Contact"><h1><span>Get In Touch.</span></h1></a>
                <p><a href="matt.d.baldwin@gmail.com?subject=Contact">matt.d.baldwin@gmail.com</a> </p>
             </div>
 
@@ -24,7 +18,7 @@ class Contact extends Component {
          </div>
 
          
-   </section>
+      </section>
     );
   }
 }
