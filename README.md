@@ -1,5 +1,4 @@
 # React JS Resume Web App Template      
-![ReactJS Resume Website Template](resume-website.jpg?raw=true "ReactJS Resume Website Template")
 ### <a href="https://matthewdbaldwin.com/">LIVE DEMO</a> 
 
 ## Description
