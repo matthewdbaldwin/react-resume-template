@@ -1,19 +1,23 @@
 {
   "name": "personalportfolio",
-  "homepage": "http://matthewdbaldwin.github.io/react-resume",
+  "homepage": "http://matthewdbaldwin.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "jquery": "^3.2.1",
+    "jquery": "^3.4.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-ga": "^2.3.5",
-    "react-scripts": "1.0.17"
+    "react-scripts": "1.0.17",
+    "waypoints": "^4.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
